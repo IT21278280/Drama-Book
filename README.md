@@ -14,11 +14,17 @@ A fully functional drama booking Flutter app with local database
 
 
 ### Screens
-<img src="screenshots/ui1.jpg" width="300">
-<img src="screenshots/ui2.jpg" width="300">
-<img src="screenshots/ui3.jpg" width="300">
-<img src="screenshots/ui4.jpg" width="300">
-<img src="screenshots/ui5.jpg" width="300">
-<img src="screenshots/ui6.jpg" width="300">
+<img src="screenshots/ui1.jpg" width="300"> <img src="screenshots/ui2.jpg" width="300">
+
+<br>
+
+<img src="screenshots/ui3.jpg" width="300"> <img src="screenshots/ui4.jpg" width="300">
+
+<br>
+
+<img src="screenshots/ui5.jpg" width="300"> <img src="screenshots/ui6.jpg" width="300">
+
+<br>
+
 <img src="screenshots/ui7.jpg" width="300">
 
