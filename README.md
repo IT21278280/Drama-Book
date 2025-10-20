@@ -14,11 +14,10 @@ A fully functional drama booking Flutter app with local database
 
 
 ### Screens
-![UI1](drama_book\screenshots\ui1.jpg)
-![UI2](drama_book\screenshots\ui2.jpg)
-![UI3](drama_book\screenshots\ui3.jpg)
-![UI4](drama_book\screenshots\ui4.jpg)
-![UI5](drama_book\screenshots\ui5.jpg)
-![UI6](drama_book\screenshots\ui6.jpg)
-![UI7](drama_book\screenshots\ui7.jpg)
-
+![UI1](https://github.com/IT21278280/Drama-Book/raw/main/screenshots/ui1.jpg)
+![UI2](https://github.com/IT21278280/Drama-Book/raw/main/screenshots/ui2.jpg)
+![UI3](https://github.com/IT21278280/Drama-Book/raw/main/screenshots/ui3.jpg)
+![UI4](https://github.com/IT21278280/Drama-Book/raw/main/screenshots/ui4.jpg)
+![UI5](https://github.com/IT21278280/Drama-Book/raw/main/screenshots/ui5.jpg)
+![UI6](https://github.com/IT21278280/Drama-Book/raw/main/screenshots/ui6.jpg)
+![UI7](https://github.com/IT21278280/Drama-Book/raw/main/screenshots/ui7.jpg)
