@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464972644082",
+    "project_id": "drama-book-app",
+    "storage_bucket": "drama-book-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464972644082:android:a4dbe4f000a86583359a6b",
+        "android_client_info": {
+          "package_name": "com.example.drama_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEguoG94eHGmdKHt-4fKpqLI4GQ47G73E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
